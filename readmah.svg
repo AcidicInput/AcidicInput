@@ -2,7 +2,7 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        .container { background: black; color: white; }
+        .container { background: black; color: white; padding: 20px; }
       </style>
       <div class="container">
         <h1>AcidicInput WIP</h1>
