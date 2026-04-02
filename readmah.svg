@@ -1,11 +1,11 @@
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 2000 2500" width="2000" height="2500" xmlns="http://www.w3.org/2000/svg">
   <rect width="100%" height="100%" fill="black"/>
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        .container { background: black; color: white; padding: 20px; }
+        .headin { color: white; padding: 20px; }
       </style>
-      <div class="container">
+      <div class="headin">
         <h1>AcidicInput WIP</h1>
       </div>
     </div>
