@@ -3,10 +3,17 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
+        .center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
         .headin { color: white; padding: 20px; }
       </style>
+      <div class="center">
       <div class="headin">
         <h1>AcidicInput WIP</h1>
+      </div>
       </div>
     </div>
   </foreignObject>
